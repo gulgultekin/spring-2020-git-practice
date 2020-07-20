@@ -3,6 +3,6 @@ pink
 green
 blue
 yellow
-black
+gray
 
 
