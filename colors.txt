@@ -5,6 +5,7 @@ blue
 yellow
 black
 orange
+apricot
 
 
 
