@@ -5,6 +5,8 @@ blue
 yellow
 black
 orange
+purple
+white
 
 
 
