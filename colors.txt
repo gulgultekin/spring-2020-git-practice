@@ -3,7 +3,6 @@ pink
 green
 blue
 yellow
-gray
 black
 orange
 =======
