@@ -7,8 +7,7 @@ black
 orange
 purple
 white
-apricot
-red-pink
+
 
 
 
